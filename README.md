@@ -1,3 +1,6 @@
+Status: Independent research & simulated portfolio project
+Focus: Cybersecurity, GRC, Digital Governance, Blockchain Security
+Author: Mukhtar Aliyu (Nigeria)
 # Nigeria Tax Security & Individual Tax Impact Assessment (2026)
 
 **Author:** Mukhtar Aliyu  
