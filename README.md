@@ -83,3 +83,24 @@ This project is relevant to:
 This repository represents an **independent, simulated, and educational research project**.
 It does not disclose real vulnerabilities, exploit techniques, or sensitive system details.
 All content is intended for learning, portfolio demonstration, and professional review only.
+# 🇳🇬 Nigeria Tax Security Impact 2026
+
+This project simulates:
+
+- A **2026 Nigerian tax calculator**
+- Security risks in digital tax systems
+- Threat modeling for government tax platforms
+- Cybersecurity risk assessment
+
+## 🔹 Project Goals
+- Understand tax system logic
+- Apply cybersecurity threat modeling
+- Identify vulnerabilities in digital public infrastructure
+
+## 🔹 Technologies
+- Python
+- GitHub
+- Cybersecurity risk frameworks
+
+## 🔹 Author
+Mukhtar Aliyu – Cybersecurity Learner
